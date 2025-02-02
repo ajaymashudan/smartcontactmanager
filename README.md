@@ -24,7 +24,7 @@ This is a contact management application built using:
 
 ## How to Run the Application
 1. Clone this repository:
-git clone https://github.com/your-username/smartcontactmanager.git
+git clone https://github.com/ajaymashudan/smartcontactmanager.git
 
 css
 
